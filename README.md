@@ -23,7 +23,6 @@ I'm Rúben Lourenço, Full Stack Developer from Portugal <img src="https://user-
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
 <h3>Contact</h3>
@@ -35,7 +34,7 @@ I'm Rúben Lourenço, Full Stack Developer from Portugal <img src="https://user-
 
 <!---
 <p align="center"> 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rubenfglourenco&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubenfglourenco&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rlourenco1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rlourenco1&layout=compact&langs_count=8&theme=vue-dark"/>
 </p>
 --->
