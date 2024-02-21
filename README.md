@@ -1,6 +1,6 @@
 ## Hey! 👋 Welcome to my Github profile.
 
-I'm Rúben Lourenço, Full Stack Developer from Portugal <img src="https://user-images.githubusercontent.com/92398326/157738536-05a7e51c-f4ad-4b0d-8c5c-945182107fed.png" width="13"/>  currently based in Brazil <img src="https://user-images.githubusercontent.com/92398326/157738366-6cb02c21-d700-4c4a-ad41-d04d30d40cca.png" width="13" />.
+I'm Rúben Lourenço, Full Stack Developer from Portugal <img src="https://user-images.githubusercontent.com/92398326/157738536-05a7e51c-f4ad-4b0d-8c5c-945182107fed.png" width="13"/>.
 
 <h3>Main Skills</h3>
 <p>
